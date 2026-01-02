@@ -1,0 +1,7 @@
+{
+  "name": "Escolarhg 1",
+  "description": "Una plataforma integral para la gestión académica de unidades educativas, permitiendo el control de estudiantes, docentes, calificaciones y análisis de rendimiento mediante inteligencia artificial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
